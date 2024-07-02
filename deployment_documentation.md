@@ -11,17 +11,17 @@
 ### Evidence:
 - **AWS RDS Setup:**
 
-    ![AWS RDS Setup](img/aws-rds.png)
+    ![AWS RDS Setup](Img/aws-rds.png)
 
 - **AWS Elastic Beanstalk Setup:**
 
-    ![AWS Elastic Beanstalk Setup](img/aws-eb.png)
+    ![AWS Elastic Beanstalk Setup](Img/aws-eb.png)
 
 - **AWS S3 Setup:**
 
-    ![AWS S3 Setup](img/aws-s3.png)
+    ![AWS S3 Setup](Img/aws-s3.png)
 
-- **Application Link:** [http://mybucket033212455555.s3-website-us-east-1.amazonaws.com](#)
+- **Application Link:** [http://mybucket033212455555.s3-website-us-east-1.amazonaws.com](http://mybucket033212455555.s3-website-us-east-1.amazonaws.com)
 
 ## 2. CircleCI Configuration for Continuous Integration
 
@@ -34,7 +34,7 @@
 ### Evidence:
 - **CircleCI Last Build Screenshot:**
 
-    ![CircleCI Last Build](img/circleci-last-build.png)
+    ![CircleCI Last Build](Img/circleci-last-build.png)
 
 - **Build Status Badge:**
 
@@ -43,7 +43,7 @@
     ```
 - **CircleCI Environment Variables Configuration Screenshot:**
 
-    ![CircleCI Environment Variables](img/circleci-env-variables.png)
+    ![CircleCI Environment Variables](Img/circleci-env-variables.png)
 
 ## 3. Documenting Deployment Process
 
@@ -53,7 +53,7 @@
 ### Evidence:
 - **Documentation Folder Structure:**
 
-    ![Documentation Folder Structure](img/docs-folder-structure.png)
+    ![Documentation Folder Structure](Img/docs-folder-structure.png)
 
 ### Criteria:
 - Prepare an architecture diagram to document the deployment flow.
@@ -61,11 +61,11 @@
 ### Evidence:
 - **High-Level Infrastructure Diagram:**
 
-    ![High-Level Infrastructure Diagram](img/high-level-diagram.png)
+    ![High-Level Infrastructure Diagram](Img/high-level-diagram.png)
 
 - **Pipeline Overview Diagram:**
 
-    ![Pipeline Overview Diagram](img/pipeline-diagram.png)
+    ![Pipeline Overview Diagram](Img/pipeline-diagram.png)
 
 ## Conclusion
 
